@@ -1,3 +1,25 @@
+# Banner_site
+
+## Overview
+
+This project is a dynamic one-page website built with React. It features a controllable banner that includes a countdown timer and an image displayed via a URL. The application integrates with a MySQL database to store and manage the banner settings. An internal dashboard is provided for managing the banner's visibility, description, timer, and link.
+
+## Features
+
+- **Dynamic Banner**: Displays an image with a countdown timer. The banner's visibility is controlled via an internal dashboard.
+- **Internal Dashboard**: Manage the banner's visibility, description, timer settings, and link.
+- **MySQL Integration**: Stores and retrieves banner settings from a MySQL database.
+- **API Endpoints**: Provides endpoints to get and update banner settings.
+
+## Prerequisites
+
+- Node.js and npm installed on your machine.
+- MySQL database server running.
+- Basic knowledge of React and Express.
+
+## Setup
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
